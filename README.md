@@ -14,8 +14,6 @@ Sou Victor, **desenvolvedor backend** apaixonado por tecnologia e sempre em busc
     <img widith='50' height='50' src="assets/plus.png">
 </div>
 
-![snake gif](https://github.com/victot-exe/victot-exe/blob/output/github-contribution-grid-snake.svg)
-
 ### Você pode entrar em contato comigo através:
 <a href="www.linkedin.com/in/victor-faria-29b960196" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:victorfarian@gmail.com?subject=Vi seu perfil no github&body=Olá Victor, encontrei seu perfil no github e gostaria de">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
