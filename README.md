@@ -11,6 +11,7 @@ Sou Victor, **desenvolvedor backend** apaixonado por tecnologia e sempre em busc
     <img widith='50' height='50' src="assets/dotnet.png">
     <img widith='50' height='50' src="assets/html.png">
     <img widith='50' height='50' src="assets/css.png">
+    <img widith='50' height='50' src="assets/spring.png">
     <img widith='50' height='50' src="assets/plus.png">
 </div>
 
