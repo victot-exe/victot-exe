@@ -16,5 +16,5 @@ Sou Victor, **desenvolvedor backend** apaixonado por tecnologia e sempre em busc
 </div>
 
 ### Você pode entrar em contato comigo através:
-<a href="https://www.linkedin.com/in/victor-b-f-sousa" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-b-f-sousa)
 <a href="mailto:victorfarian@gmail.com?subject=Vi seu perfil no github&body=Olá Victor, encontrei seu perfil no github e gostaria de">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
